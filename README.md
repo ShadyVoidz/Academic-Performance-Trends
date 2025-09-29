@@ -34,12 +34,11 @@ My main aim in this project is to put together all of the skills I have learnt f
 #### Questions I plan to answer:
 
   1. Does studying for longer periods of time produce better results on the exam?
-  2. On average, what amount of study time generally produced better results on the exam? (E.g. 3 - 4 hours, 5 - 6 hours, 11 - 12 hours?)
-  3. Does attending class actually have an impact on your exam results or can you get away with simply independent studying? 
-  4. If you had a bad score on the previous exam are you more likely to try harder by studying lots or give up by studying less?
-  5. If you had a good score on the previous exame are you more likely to be motivated and study more or be a bit more lenient?
-  6. Do previous exam results impact how you achieve on the next exam?
-  7. Did students who on average slept longer achieve better? Was sleeping too much or too little harmful?
+  2. Does attending class actually have an impact on your exam results or can you get away with simply independent studying? 
+  3. If you had a bad score on the previous exam are you more likely to try harder by studying lots or give up by studying less?
+  4. If you had a good score on the previous exame are you more likely to be motivated and study more or be a bit more lenient?
+  5. Do previous exam results impact how you achieve on the next exam?
+  6. Did students who on average slept longer achieve better? Was sleeping too much or too little harmful?
 
 ---
 
